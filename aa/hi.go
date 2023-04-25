@@ -2,6 +2,6 @@ package aa
 
 import "fmt"
 
-func sayHi() {
+func SayHi() {
 	fmt.Println("hi")
 }
